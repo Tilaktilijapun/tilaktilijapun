@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Backend Developer | System Architect | Code Enthusiast
+### 🚀 Full Stack Developer | Backend Specialist | UI/UX Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/Tilaktilijapun?style=social)](https://github.com/Tilaktilijapun)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tilaktilijapun?style=social)](https://twitter.com/Tilaktilijapun)
@@ -50,11 +50,11 @@
 
 | Language | Proficiency | Usage |
 |----------|-------------|-------|
-| TypeScript/JavaScript | ████████░░ | 30% |
-| Python | ███████░░░ | 25% |
-| Java | ██████░░░░ | 20% |
-| Go | █████░░░░░ | 15% |
-| SQL | ███████░░░ | 10% |
+| PHP | ████████░░ | 30% |
+| JavaScript/Node.js | ████████░░ | 25% |
+| Python | ███████░░░ | 20% |
+| SQL | ███████░░░ | 15% |
+| Frontend (HTML/CSS/React) | ██████░░░░ | 10% |
 
 </div>
 
@@ -62,32 +62,27 @@
 
 <div align="center">
 
-#### Backend Frameworks
+#### Backend Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### DevOps & Cloud
+#### Frontend & UI/UX
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### DevOps & Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -103,12 +98,12 @@
 
 | Area | Details |
 |------|---------|
-| 🔧 **API Development** | REST, GraphQL, gRPC, WebSocket |
-| 🗄️ **Database Design** | Schema Optimization, Indexing, Replication |
-| ☁️ **Cloud Architecture** | Multi-region deployment, Serverless, Load Balancing |
-| 🔐 **Security** | Authentication, Authorization, Encryption, SSL/TLS |
-| 📊 **Data Processing** | ETL Pipelines, Message Queues, Stream Processing |
-| 🚀 **Performance** | Caching, Optimization, Monitoring, Scaling |
+| 💼 **Backend Development** | PHP, Node.js, Python REST APIs, Business Logic |
+| 🗄️ **Database Management** | MySQL, PostgreSQL, Schema Design, Optimization |
+| 🎨 **Frontend Development** | React, HTML5, CSS3, Responsive UI Design |
+| 🐳 **Containerization** | Docker, Kubernetes Orchestration |
+| 🔐 **Security** | Authentication, Authorization, Encryption |
+| 📊 **Data Processing** | ETL Pipelines, Database Queries, Performance Tuning |
 
 </div>
 
