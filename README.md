@@ -117,4 +117,51 @@
 
 <div align="center">
 
-### Projects by Category
+## 📌 Featured Projects by Category
+
+### 🤖 AI & Machine Learning
+- **[LinguaAI - AI-Powered Multilingual Chatbot](https://github.com/Tilaktilijapun/LinguaAI-AI-Powered-Multilingual-Chatbot-with-Real-Time-Translation)** - JavaScript
+  - AI-powered multilingual chatbot with real-time translation (English, Nepali, Hindi)
+  - Full-stack development with API integration
+
+- **[AI Tourism Guide](https://github.com/Tilaktilijapun/AI-tourism-guide)** - AI-powered travel assistance
+
+- **[Quiz Generator](https://github.com/Tilaktilijapun/Quiz-generator-)** - AI-based quiz creation tool
+
+### 🏫 Education & Management
+- **[Academic Atelier](https://github.com/Tilaktilijapun/Academic-Atelier)** - TypeScript
+  - School management system with comprehensive features
+
+### 🎨 Creative & Image Processing
+- **[Lumina Studio](https://github.com/Tilaktilijapun/lumina-studio)** - TypeScript
+  - Background remover and photo enhancement tool
+
+### 🎮 Interactive & Gaming
+- **[StoryForge Quest Seeker](https://github.com/Tilaktilijapun/storyforge-quest-seeker)** - TypeScript
+  - Interactive quest-based storytelling platform
+
+- **[Shatterdeep](https://github.com/Tilaktilijapun/shatterdeep)** - Game/Interactive project
+
+- **[Heart-Felt Whispers AI](https://github.com/Tilaktilijapun/heart-felt-whispers-ai)** - TypeScript
+  - AI-driven interactive experience
+
+### 📊 Monitoring & Tools
+- **[Web Watchdog Report](https://github.com/Tilaktilijapun/web-watchdog-report)** - TypeScript
+  - Website monitoring and reporting tool
+
+### 💼 Portfolio & Personal
+- **[Portfolio](https://github.com/Tilaktilijapun/Portfolio)** - TypeScript
+  - Personal portfolio showcase
+
+### 🔧 Academic & Learning Projects
+- **[Major Project](https://github.com/Tilaktilijapun/major-project)** - HTML
+  - Academic capstone project
+
+- **[Minor Project](https://github.com/Tilaktilijapun/Minor-project)** - PHP
+  - Academic learning project
+
+---
+
+## 📊 Project Statistics
+
+### Projects by Technology
